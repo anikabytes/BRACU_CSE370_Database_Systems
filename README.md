@@ -6,7 +6,6 @@
   Lab Faculty(s) : AMM, RBR <br/>
   Music Streaming Service (Lab Project) :- <br/>
   https://github.com/anikabytes/BRACU_CSE370_Database_Systems_Project <br/>
-  Course Materials:- <br/>
-  https://docs.google.com/spreadsheets/d/1QHipOZ0hz3tPYVejs9qyAlunHA0YRZVejTzk_VS87kA/edit#gid=1146265486 <br/>
+   
   </body>
 </html>
